@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+navbar:
+  title: "Wisconsin Land Market"
+  left:
+    - text: "Buffalo County"
+      href: index.html
